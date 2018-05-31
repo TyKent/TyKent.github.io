@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
- [Lander](https://TyKent.github.io/TyKent.github.io/index.html)
+ [Lander](https://TyKent.github.io/Game_Design/index.html)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
